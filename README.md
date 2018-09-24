@@ -2161,4 +2161,4 @@ client.on('message', msg => {
 });
 
 
-client.login(yur);
+client.login("NDkwODkxMTgwOTg5NzQzMTA3.Dn_5-g.1iItq31gRlnkd0gtv2g4YHW6BBw");
